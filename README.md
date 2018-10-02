@@ -1,5 +1,5 @@
 # **SharelinkGan**
-> Koleksi link untuk kepentingan bersama dari yang **BERFAEDAH** sampe yang TIDAK BERGUNA
+Koleksi link untuk kepentingan bersama dari yang **BERFAEDAH** sampe yang TIDAK BERGUNA
 
 >bingung mau ngapain baca `FAQ.md`
 
