@@ -11,6 +11,9 @@ Koleksi link untuk kepentingan bersama dari yang **BERFAEDAH** sampe yang TIDAK 
 - [uxplanet.org](https://uxplanet.org) - article medium khususon UX
 - [pttrns.com](https://pttrns.com) - insiprasi ux
 
+### Desain
+- [colorsupplyyy.com/app](http://colorsupplyyy.com/app/) - buat nyari kombinasi warna
+
 ### Dll.
 
 ## kontributor
