@@ -11,7 +11,8 @@ Koleksi link untuk kepentingan bersama dari yang **BERFAEDAH** sampe yang TIDAK 
 - [uxplanet.org](https://uxplanet.org) - article medium khususon UX
 - [pttrns.com](https://pttrns.com) - insiprasi ux
 
-### Dll.
+### Other
+- [medium.freecodecamp.org/15-web-developer-portfolios](https://medium.freecodecamp.org/15-web-developer-portfolios-to-inspire-you-137fb1743cae) - nyari inpirasi portfolio website? di mari
 
 ## kontributor
 - [laptopapik](https://github.com/laptopapik)
